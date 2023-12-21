@@ -1,0 +1,48 @@
+body{
+    margin:0 !important;
+    background-color: #FF784F;
+    font-weight: bold;
+}
+p{
+    color:#FFE19C;
+}
+input{
+    border-radius: 5px;
+}
+.Lessons{
+    height: 50vh;
+    width: 100vw;
+    text-align: center;
+}
+.smollest{
+    width:95%;
+    height: 20px;
+    margin-left:2.5%;
+    background-color: #FFE19C;
+}
+#box{
+    height: 100%;
+    margin-left:15%;
+    background-color: #3A3042;
+    width: 70%;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: scroll;
+}
+.otherstuff{
+    height: 45vh;
+    width: 100vw;
+    text-align: center;
+}
+button{
+    background-color: #EDFFD9;
+    border: 2px solid #3A3042;
+    height: 50px;
+    font-weight: bold;
+    width: 80px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: #DB9D47;
+}
